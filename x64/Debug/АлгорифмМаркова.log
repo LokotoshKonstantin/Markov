@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\алгорифммаркова\header.h(55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  АлгорифмМаркова.vcxproj -> C:\Users\user\source\repos\АлгорифмМаркова\x64\Debug\АлгорифмМаркова.exe
